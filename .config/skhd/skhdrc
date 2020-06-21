@@ -1,1 +1,4 @@
 alt - w : yabai -m display --focus recent
+ctrl + shift - n : yabai -m window --focus next
+ctrl + shift - b : yabai -m window --focus prev
+# !Change to new terminal window, not instance. ctrl + shift -t : open -na /Applications/Terminal.app
