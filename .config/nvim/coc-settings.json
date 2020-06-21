@@ -1,0 +1,10 @@
+{
+  "suggest.autoTrigger": "none",
+  "diagnostic.enableSign": false,
+  "diagnostic.refreshAfterSave": true,
+  "diagnostic.virtualText": true,
+  // what is the signature trigger character? How to trigger via vim map?
+  "signature.enable": true,
+  "signature.preferShownAbove": false,
+  "coc.preferences.jumpCommand": "vsplit"
+}
